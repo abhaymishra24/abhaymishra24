@@ -1,4 +1,4 @@
-  [![MasterHead](https://www.digitaledgetech.in/images/Banner_03_new.gif)]
+  [![MasterHead]( https://i.pinimg.com/originals/6f/2b/1a/6f2b1a25100fbde63c611561317a6ef2.giff)]
 <h1 align="center">Hello 👋 I'm Abhay Mishra</h1>
 <h3 align="center">I am a passionate Software developer from Tech-India</h3>
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">

@@ -1,13 +1,13 @@
   [![MasterHead](https://www.digitaledgetech.in/images/Banner_03_new.gif)]
 <h1 align="center">Hello 👋 I'm Abhay Mishra</h1>
-<h3 align="center">I am a passionate Software developer from Tech-India</h3>
+<h3 align="center">I am a passionate Software Developer from Tech-India</h3>
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymishra24" /> </p>
 
 - 🔭 I’m currently working on **Stand Pickup Project**
 
-- 🌱 I’m currently learning **Java & DSA, Data Science**
+- 🌱 I’m currently learning **Data Science, Java & DSA**
 
 - 💬 Ask me about **Data Science, Software Development, Entrepreneurship**
 

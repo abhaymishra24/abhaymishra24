@@ -36,5 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymishra24&" alt="abhaymishra24" /></p>
 
+<h3 align="center">Thank you for visiting my profile:</h3>
+
 - Feel free to explore my repositories and reach out to me for collaborations or discussions. 🤝 
  

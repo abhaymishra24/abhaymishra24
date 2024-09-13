@@ -1,6 +1,9 @@
 
-<h1 align="center">Hello 👋 I'm Abhay Mishra</h1>
-<h3 align="center">I am a passionate Software Developer from Tech-India</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Github!;This+is+Abhay+Mishra+☺;&center=true&size=30">
+  </a>
+</h1>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 

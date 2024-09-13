@@ -1,24 +1,23 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+Github!;This+is+Abhay+Mishra+😎;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;Welcome+to+my+Github!;This+is+Abhay+Mishra+😊;&center=true&size=30">
   </a>
 </h1>
 
 ![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
-
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymishra24" /> </p>
 
-### 🧐 About Me:
+### 🤓 About Me:
 
 - 🤝 Let's connect and do work on amazing projects 🚀 
 
 - 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
 
-- 🔭 I’m currently working on **Stand Pickup Project**
+- 🧑‍💻 I’m currently working on **Stand Pickup Project**
 
 - 🌱 I’m currently learning **Data Science, Java & DSA**
 
@@ -28,7 +27,7 @@
 
 - ⚡ Fun fact **I am a funny guy with funny talk and behaviour.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhaymishra86" height="30" width="40" /></a>

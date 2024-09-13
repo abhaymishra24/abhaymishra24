@@ -1,6 +1,10 @@
 
 <h1 align="center">Hello 👋 I'm Abhay Mishra</h1>
 <h3 align="center">I am a passionate Software Developer from Tech-India</h3>
+
+![header_](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
+
+
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymishra24" /> </p>

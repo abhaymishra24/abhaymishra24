@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymishra24" /> </p>
 
+<h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
+
 ### 🤓 About Me:
 
 - 🤝 Let's connect and do work on amazing projects 🚀 

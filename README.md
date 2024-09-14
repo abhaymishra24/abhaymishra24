@@ -20,7 +20,7 @@
 
 - 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
 
-- 🧑‍💻 I’m currently working on **Stand Pickup Project**
+- 🧑‍💻 I’m currently working on **Stand_pickup Project**
 
 - ✍️ I’m currently learning **Data Science, Java & DSA**
 

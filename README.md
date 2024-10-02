@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-![header_](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083403)
+![header_](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
 
 

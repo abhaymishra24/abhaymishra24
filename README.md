@@ -33,6 +33,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhaymishra86" height="30" width="40" /></a>
+<a href="https://abhaymishra24.github.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fadobe-portfolio&psig=AOvVaw2T2Db_RJH4-_-sPgP-60AE&ust=1728142204591000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjz2ciF9YgDFQAAAAAdAAAAABAE)" alt="abhaymishra24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
 </p>

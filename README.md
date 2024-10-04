@@ -17,11 +17,11 @@
 
 - 🤝 Let's connect and do work on amazing projects 🚀 
 
-- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
+- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
 
-- 🧑‍💻 I’m currently working on **Stand_pickup Project**
+- 🧑‍💻 I’m currently working on **Stand_pickup Project and little bit on the Shield_Defence project**
 
-- ✍️ I’m currently learning **Data Science, Java & DSA**
+- ✍️ I’m currently learning **Data Structure and Data Science concept**
 
 - 💬 Ask me about **Data Science, Software Development, Entrepreneurship**
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;Welcome+to+my+Github+💻;This+is+Abhay+Mishra+😊;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Everyone!+👋;Welcome+to+my+Github+💻;This+is+Abhay+Mishra+😊;&center=true&size=30">
   </a>
 </h1>
 
@@ -15,11 +15,11 @@
 
 ### 🤓 About Me:
 
-- 🤝 Let's connect and do work on amazing projects 🚀 
+- 🤝 Let's connect and do work on amazing projects. 🚀 
 
 - 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
 
-- 🧑‍💻 I’m currently working on **Stand_pickup Project**
+- 🧑‍💻 I’m currently working on **Stand_pickup Project.**
 
 - ✍️ I’m currently learning **Data Structure and Data Science concept.**
 

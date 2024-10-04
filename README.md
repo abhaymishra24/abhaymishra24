@@ -49,5 +49,5 @@
 
 <h3 align="left"> 😌Thank you for visiting my profile:</h3>
 
-- Feel free to explore my repositories and reach out to me for collaborations or discussions.🤝😊 
+- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new ideas and projects.🤝😊🚀
  

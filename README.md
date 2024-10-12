@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 
-- ⚡ Fun fact **I enjoy meeting new people, getting to know them, talking with them, and discussing projects.🤝😊**
+- ⚡ Fun fact **I truly enjoy meeting new people, getting to know them, engaging in conversations, and collaborating on projects.🤝😊**
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">

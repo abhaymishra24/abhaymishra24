@@ -11,7 +11,6 @@
 
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam28&color=0e75b6&style=flat&label=🍨_Hey_👋!_You+are+my+visitor+No." alt="abhaymishra24" /> </p>
 
 ### 🤓 About Me:
 

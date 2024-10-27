@@ -8,6 +8,7 @@
 ![header_](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h2 align="center"><i>You may not like your workplace,<span><span/>but  should like your work and do it daily with consistency and passion.</i> 🧑‍💻🚀 </h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymishra24&color=0e75b6&style=flat&label=_Hey_👋_!_You+are+my+visitor+no." alt="abhaymishra24" /> </p>
 
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 

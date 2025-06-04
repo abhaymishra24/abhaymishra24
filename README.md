@@ -23,7 +23,7 @@
 
 - ✍️ I’m currently learning **Data Structure and Data Science concept.**
 
-- 💬 Ask me about **Data Science, Software Development, Entrepreneurship.**
+- 💬 Ask me about **Data Engineering, Software Development, Data Analytics and Machine Learning.**
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 

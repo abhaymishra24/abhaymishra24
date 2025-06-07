@@ -15,7 +15,7 @@
 
 ### 🤓 About Me:
 
-- 🤝 Let's connect and do work on amazing projects. 🚀 
+- 🤝 Let's connect and do work on amazing projects. 
 
 - 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
 
@@ -29,7 +29,7 @@
 
 - ⚡ Fun fact- **I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝**
 
-<h3 align="left">🤝Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://abhaymishra24.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" alt="abhaymishra24" height="30" width="40" /></a>
@@ -57,5 +57,5 @@
  
 <h3 align="left"> 😊Thank you for visiting my profile: </h3>
 
-Feel free to explore my other repositories and reach out to me for collaborations or discussions on new ideas and projects.🤝😊🚀
+Feel free to explore my other repositories and reach out to me for collaborations or discussions on new ideas and projects.🚀
  

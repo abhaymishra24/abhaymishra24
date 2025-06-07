@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Everyone!+👋;Welcome+to+my+Github+💻;This+is+Abhay+Mishra+😊;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, +👋;Welcome+to+my+Github+💻;This+is+Abhay+Mishra+😊;&center=true&size=30">
   </a>
 </h1>
 
@@ -23,7 +23,7 @@
 
 - ✍️ I’m currently learning **Data Structure and Data Science concept.**
 
-- 💬 Ask me about **Data Engineering, Software Development, Data Analytics and Machine Learning.**
+- 💬 Ask me about **Software Development, Data Engineer and Data Analytics.**
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 

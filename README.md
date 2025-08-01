@@ -13,12 +13,12 @@
 <img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 
-### 🤓 About Me:
+### 🤓 About Me
 
-- 🤝 Let's connect and do work on amazing projects. 
+- 🤝 Let's connect and work on amazing projects together. 
 
-- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills.
-
+- 🧑‍🤝‍🧑  Seeking a team or organization where I can grow and enhance my skills.
+  
 - ✍️ I’m currently learning **Data Structure and DBMS concept.**
 
 - 💬 Open to work as a **Software Engineer Intern, Data Engineer Intern, or Data Analyst Intern.**

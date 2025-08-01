@@ -21,7 +21,7 @@
 
 - ✍️ I’m currently learning **Data Structure and DBMS concept.**
 
-- 💬 Open to work **Software Engineer, Data Engineer and Data Analytics.**
+- 💬 Open to work as **Software Engineer, Data Engineer and Data Analytics (Intern positions).**
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 

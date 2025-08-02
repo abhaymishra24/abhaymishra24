@@ -23,7 +23,7 @@
 
 - 💬 Open to work as a **Software Engineer Intern, Data Engineer Intern, or Data Analyst Intern.**
 
-- 📫 How to reach me **(techabhay06@gmail.com)**
+- 📫 How to reach me **<a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>**
 
 - ⚡ Fun fact- **I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝**
 

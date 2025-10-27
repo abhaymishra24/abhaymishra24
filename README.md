@@ -26,12 +26,14 @@
 - 📫 How to reach me **(techabhay06@gmail.com)**
 
 - ⚡ Fun fact- **I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝**
+- https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg
 
 <h3 align="left">Tech portfolio:</h3>
 <p align="left">
+  file:///C:/Users/abhay/Downloads/icons8-codechef.svg
 <!-- <a href="https://linkedin.com/in/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techabhay06" height="30" width="40" /></a> -->
 <!-- <a href="https://abhaymishra24.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/429905/portfolio-my-profile-browser.svg" alt="abhaymishra24" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhaymishra86" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="file:///C:/Users/abhay/Downloads/icons8-codechef.svg" alt="abhaymishra86" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
 </p>

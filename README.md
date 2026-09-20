@@ -17,11 +17,11 @@
 
 - 🤝 Let's connect and work on amazing projects together. 
 
-- 🧑‍🤝‍🧑  Seeking a team or organization where I can grow and enhance my skills.
+- 🧑‍🤝‍🧑  **Seeking a team or organization where I can grow and enhance my skills.**
   
-- ✍️ I’m currently learning **Data Structure and DBMS concept.**
+- ✍️ I’m currently learning **DSA and DBMS concept.**
 
-- 💬 Open to work as a **Software Engineer Intern, Data Engineer Intern, or Data Analyst Intern.**
+- 💬 Open to work as a **As an Intern or Full time in position Software Engineer, Data Engineer, or AI Engineer.**
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 
@@ -35,8 +35,8 @@
 <a href="https://www.codechef.com/users/abhaymishra86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"alt="abhaymishra86" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
-</p>
-<a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
+
+<a href="https://codeforces.com/profile/Ab_guy" target="blank"><img align="center" src="https://icons8.com/icon/GO78dOMqYNlA/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo" alt="abhaymishra08" height="30" width="40" /></a>
 </p>
 
 

@@ -36,6 +36,8 @@
 <a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
 </p>
+<a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">💻⚙️Languages and Tools:</h3>

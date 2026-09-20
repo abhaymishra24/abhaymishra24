@@ -23,9 +23,9 @@
 
 - 💻 **Open to Internship and Full-Time Opportunities, roles as a Software Engineer, Data Engineer, or AI Engineer.**
 
-- 📫 How to reach me **(techabhay06@gmail.com)**
+- 📧 How to reach me **(techabhay06@gmail.com)**
 
-- ⚡ Fun fact- **I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝**
+- 🌟 Fun fact- **I like meeting new people, getting to know them, engaging in discussion, and collaborating on projects.🤝**
  
 
 <h3 align="left">Tech portfolio:</h3>

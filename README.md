@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/techabhay06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techabhay06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhaymishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaymishra08" height="30" width="40" /></a>
 
-<a href="https://codeforces.com/profile/Ab_guy" target="blank"><img align="center" src="https://icons8.com/icon/GO78dOMqYNlA/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo" alt="abhaymishra08" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ab_guy" target="blank"><img align="center" src="https://www.svgrepo.com/svg/330186/codeforces" alt="abhaymishra08" height="30" width="40" /></a>
 </p>
 
 

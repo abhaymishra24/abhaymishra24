@@ -17,11 +17,11 @@
 
 - 🤝 Let's connect and work on amazing projects together. 
 
-- 🧑‍🤝‍🧑  **Seeking a team or organization where I can grow and enhance my skills.**
+- 🧑‍🤝‍🧑  Seeking a team or organization where I can grow and enhance my skills.
   
 - ✍️ I’m currently learning **DSA and DBMS concept.**
 
-- 💬 Open to work as a **As an Intern or Full time in position Software Engineer, Data Engineer, or AI Engineer.**
+- 💬 Open to work as a **Open to Internship and Full-Time Opportunities, roles as a Software Engineer, Data Engineer, or AI Engineer.**
 
 - 📫 How to reach me **(techabhay06@gmail.com)**
 
